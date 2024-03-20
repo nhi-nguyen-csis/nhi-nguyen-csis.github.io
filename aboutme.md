@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Math & Computer Science TA @ Cal Poly Pomona
+subtitle: 
+Math & Computer Science TA @ Cal Poly Pomona
 Graduate Research Assistant | Equitech Scholars | Former TA @ CodePath
 Leadership Academy Fellow (FA 23) @ Raytheon Technologies 
 ---
