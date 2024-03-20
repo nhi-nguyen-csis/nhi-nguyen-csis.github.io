@@ -20,7 +20,8 @@ subtitle: Computer Science | Data Science | Software Engineer
 ### Education
 
 * **California State Polytechnic University**
-  * Master of Science, Computer Science - expected 12/2024 (Current GPA: 4.0/4.0)
+  * Master of Science, Computer Science - expected 12/2024
+  * Current GPA: 4.0/4.0
   * Recipient of several academic scholarships: Computer Science, American Association of University Women (AAUW), Craig and Pat McCollum, Dianne Westman, Betty D. Krueger, Udacity Bertelsmann Scholarship
 * **Ho Chi Minh University of Law, Vietnam**
   * Bachelor of Arts, Law (Honor Program, Scholarships)
@@ -48,8 +49,8 @@ subtitle: Computer Science | Data Science | Software Engineer
   * Facilitated mock interviews and coached students to learn data structures & algorithms
 
 ### Skills:
-- Programming Languages (with Exposure): Python, Java, Flask, SQLITE3, Swift (UIKit), Flutter, HTML, CSS
 - Proficient Programming Languages: Python (opencv, nlp, pytorch, scikit-learn, keras, numpy, pandas, matplotlib, seaborn)
+- Programming Languages (with Exposure): Python, Java, Flask, SQLITE3, Swift (UIKit), Flutter, HTML, CSS, C++
 - Development Tools and Technologies: AWS, Heroku, Visual Studio Code, Postgres, Git, GitHub
 - Other Skills: Agile, Prompt Engineering
 
