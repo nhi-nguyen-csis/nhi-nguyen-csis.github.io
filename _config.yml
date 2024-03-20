@@ -13,7 +13,7 @@
 title: Nhi Nguyen
 
 # Short description of your site
-description: Graduate Research Assistant + Math & Computer Science TA @ Cal Poly Pomona | Equitech Scholars | Leadership Academy Fellow (FA 23) @ Raytheon Technologies | Former TA @ CodePath
+description: Porfolio
 
 # Your name to show in the footer
 author: Nhi Nguyen
@@ -23,15 +23,6 @@ author: Nhi Nguyen
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
-
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
-# --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
@@ -53,7 +44,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: /assets/img/me.png
 
 
 #####################################
