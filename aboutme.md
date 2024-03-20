@@ -6,8 +6,8 @@ subtitle: Computer Science | Data Science | Software Engineer
 
 👋 Hi, my name is Nhi Nguyen
 
-- Math & Computer Science TA @ Cal Poly Pomona
 - Graduate Research Assistant
+- Math & Computer Science TA @ Cal Poly Pomona
 - Equitech Scholars
 - Former TA @ CodePath
 - Leadership Academy Fellow (FA 23) @ Raytheon Technologies
@@ -20,10 +20,10 @@ subtitle: Computer Science | Data Science | Software Engineer
 ### Education
 
 * **California State Polytechnic University**
-* Master of Science, Computer Science - expected 12/2024 (Current GPA: 4.0/4.0)
-* Recipient of several academic scholarships: Computer Science, American Association of University Women (AAUW), Craig and Pat McCollum, Dianne Westman, Betty D. Krueger, Udacity Bertelsmann Scholarship
+  * Master of Science, Computer Science - expected 12/2024 (Current GPA: 4.0/4.0)
+  * Recipient of several academic scholarships: Computer Science, American Association of University Women (AAUW), Craig and Pat McCollum, Dianne Westman, Betty D. Krueger, Udacity Bertelsmann Scholarship
 * **Ho Chi Minh University of Law, Vietnam**
-* Bachelor of Arts, Law (Honor Program, Scholarships)
+  * Bachelor of Arts, Law (Honor Program, Scholarships)
 
 ### Awards & Certificates
 - $1,000 for 1st Place Team in Hacking for Humanity Hackathon
