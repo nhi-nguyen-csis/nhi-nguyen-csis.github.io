@@ -10,10 +10,15 @@
 ############################
 
 # Name of website
-title: My website
+title: Nhi Nguyen
+
+# Short description of your site
+description: M.S in Computer Science (12/2024)
 
 # Your name to show in the footer
 author: Some Person
+
+
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -25,6 +30,15 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
+
+# --- List of links in the navigation bar --- #
+
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - LinkedIn: "https://www.linkedin.com/in/nhi-nguyen-csis/"
+    - Github: "https://github.com/nhi-nguyen-csis"
+  Author's home: "https://nhi-nguyen-csis.github.io/"
 
 ################
 # --- Logo --- #
@@ -50,13 +64,10 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "nhi.nguyen.csis@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
+  github: nhi-nguyen-csis
+  youtube: "@tedtech"
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -92,13 +103,13 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "nhi-nguyen-csis.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -245,6 +256,10 @@ footer-hover-col: "#0085A1"
 # --- Misc --- #
 ################
 
+# Character used to separate site title and description in HTML document title
+# and RSS feed title
+title-separator: "-"
+
 # Ruby Date Format to show dates of posts
 date_format: "%B %-d, %Y"
 
@@ -256,7 +271,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
