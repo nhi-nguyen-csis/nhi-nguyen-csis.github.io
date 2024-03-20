@@ -1,30 +1,24 @@
 ---
 layout: page
 title: About me
-subtitle: |
-Math & Computer Science TA @ Cal Poly Pomona
-Graduate Research Assistant | Equitech Scholars | Former TA @ CodePath
-Leadership Academy Fellow (FA 23) @ Raytheon Technologies 
+subtitle: Computer Science | Data Science | Software Engineer
 ---
 
 👋 Hi, my name is Nhi Nguyen
 
+- Math & Computer Science TA @ Cal Poly Pomona
+- Graduate Research Assistant
+- Equitech Scholars
+- Former TA @ CodePath
+- Leadership Academy Fellow (FA 23) @ Raytheon Technologies
+
 🎓 Will grad with a M.S degree in Computer Science from California State Polytechnic University, Pomona in 12/2024
 
-📕I am currently a graduate research assistant, a grader for CS 3310 - Algorithm, and a tutor for College of Engineering @ Cal Poly Pomona. I also was a Teaching Assistant for SWE courses @ CodePath
+♥️ If you would like to see what I do in my free time, feel free to checkout my YouTube channel [here](https://www.youtube.com/channel/UCUaO5VoQonNXruIKKHl2H6Q)
 
-☕️ Love to connect with everyone
-
-♥️ If you would like to see what I do in my free time, feel free to checkout my YouTube channel here https://www.youtube.com/channel/UCUaO5VoQonNXruIKKHl2H6Q
-
-### My story
 
 ### Education
-* **Georgia Institute of Technology**
-* M.S Computer Science - Interactive Intelligent (expected 2024)
-* **Western Governor University**
-* B.S Computer Science
-  
+
 * **California State Polytechnic University**
 * Master of Science, Computer Science - expected 12/2024 (Current GPA: 4.0/4.0)
 * Recipient of several academic scholarships: Computer Science, American Association of University Women (AAUW), Craig and Pat McCollum, Dianne Westman, Betty D. Krueger, Udacity Bertelsmann Scholarship
