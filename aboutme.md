@@ -1,7 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Graduate Research Assistant + Math & Computer Science TA @ Cal Poly Pomona | Equitech Scholars | Leadership Academy Fellow (FA 23) @ Raytheon Technologies | Former TA @ CodePath
+subtitle: Math & Computer Science TA @ Cal Poly Pomona
+Graduate Research Assistant | Equitech Scholars | Former TA @ CodePath
+Leadership Academy Fellow (FA 23) @ Raytheon Technologies 
 ---
 
 👋 Hi, my name is Nhi Nguyen
