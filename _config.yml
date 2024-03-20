@@ -44,7 +44,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: /assets/img/me.png
+# title-img: /assets/img/me.png
 
 
 #####################################
@@ -56,12 +56,12 @@ title-img: /assets/img/me.png
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "nhi.nguyen.csis@gmail.com"
-  rss: false  # remove this line if you don't want to show an RSS link at the bottom
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: nhi-nguyen-csis
   youtube: "@tedtech3073"
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: nhi-nguyen-csis
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -134,14 +134,16 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#BAE1FF"
+# navbar-col: "#BAE1FF"
+navbar-col: "#F4C2C2"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#BAE1FF"
+# footer-col: "#BAE1FF"
+footer-col: "#F4C2C2"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
