@@ -52,3 +52,7 @@ subtitle: Computer Science | Data Science | Software Engineer
 - Proficient Programming Languages: Python (opencv, nlp, pytorch, scikit-learn, keras, numpy, pandas, matplotlib, seaborn)
 - Development Tools and Technologies: AWS, Heroku, Visual Studio Code, Postgres, Git, GitHub
 - Other Skills: Agile, Prompt Engineering
+
+### [References](https://www.linkedin.com/in/nhi-nguyen-csis/):
+* Clark D. Rucker (Director Phantom Works Quality at Boeing - Retired)
+* Denise Garretson (Ph.d in Mathematics)
