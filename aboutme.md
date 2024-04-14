@@ -29,9 +29,10 @@ subtitle: Computer Science | Data Science | Software Engineer
 ### Awards & Certificates
 - $1,000 for 1st Place Team in Hacking for Humanity Hackathon
 - Won the Most Original iOS app on CodePath iOS Development Demo Day
-- Completion Certificate for Generative AI with Large Language Models by DeepLearning.ai
+- Completion Certificate for Supervised Machine Learning: Regression and Classification by DeepLearning.AI, Standford University
+- Completion Certificate for Generative AI with Large Language Models by DeepLearning.AI
 - Completion Certificate for Girl Who Code Summer 2023 Pluralsight Work Prep
-- Completion Certificate for Applied Data Institute Equitech Futures
+- Completion Certificate for Applied Data Institute by Equitech Futures
 - JPMorgan Chase & Co. Software Engineering Lite & Agile Software Development Virtual Experience Program on Forage
 - Lawyer Training Certificate – Vietnamese Ministry of Justice
 - Certificate of Completion Summer Course – Suffolk University Law School Boston, MA
