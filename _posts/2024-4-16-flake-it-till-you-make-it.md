@@ -4,7 +4,7 @@ title: Cartoonizing an image
 subtitle: Using bilateral filter and some edge detection
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+share-img: /assets/img/banner.jpeg
 tags: [computer vision, python]
 author: Nhi Nguyen
 comments: true
