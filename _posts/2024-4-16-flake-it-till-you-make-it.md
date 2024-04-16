@@ -22,7 +22,7 @@ comments: true
 4. Use adaptive thresholding to detect and emphasize the edges in an edge mask.
 5. Finally, combine the color image from step 1 with the edge mask from step 4.
 
-```{python}
+```python
 import cv2 as cv
 import numpy as np
 from google.colab.patches import cv2_imshow
