@@ -16,11 +16,11 @@ comments: true
 
 **Pseudocode:**
 
-First, apply a bilateral filter to reduce the color palette of the image.
-Then, convert the original color image into grayscale.
-After that, apply a median blur to reduce image noise.
-Use adaptive thresholding to detect and emphasize the edges in an edge mask.
-Finally, combine the color image from step 1 with the edge mask from step 4.
+1. First, apply a bilateral filter to reduce the color palette of the image.
+2. Then, convert the original color image into grayscale.
+3. After that, apply a median blur to reduce image noise.
+4. Use adaptive thresholding to detect and emphasize the edges in an edge mask.
+5. Finally, combine the color image from step 1 with the edge mask from step 4.
 
 ```{python}
 import cv2 as cv
