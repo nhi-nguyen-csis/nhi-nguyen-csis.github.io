@@ -11,7 +11,8 @@ author: Nhi Nguyen
 comments: true
 ---
 
-
+{: .box-success}
+Reference: OpenCV 4 with Python Blueprints - Second Edition - Dr. Menua Gevorgyan, Arsen Mamikonyan, Michael Beyeler
 
 **Bilateral filter:** reduce the color palette or the numbers of colors that are used in the image. This mimics a cartoon drawing, wherein a cartoonist typically has few colors to work with
 
