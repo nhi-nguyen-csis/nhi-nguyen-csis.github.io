@@ -10,6 +10,8 @@ author: Nhi Nguyen
 comments: true
 ---
 
+
+
 **Bilateral filter:** reduce the color palette or the numbers of colors that are used in the image. This mimics a cartoon drawing, wherein a cartoonist typically has few colors to work with
 
 **Edge detection:** to generate bold silhouettes. Note that before doing edge detection, we need to blur the image to suppress small-scale noise and details
