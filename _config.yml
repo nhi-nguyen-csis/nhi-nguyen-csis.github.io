@@ -297,7 +297,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
-  - _posts
+  # - _posts
 
 plugins:
   - jekyll-paginate
