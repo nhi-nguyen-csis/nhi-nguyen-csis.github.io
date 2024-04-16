@@ -5,6 +5,7 @@ subtitle: Using bilateral filter and some edge detection
 cover-img: /assets/img/banner.jpeg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/banner.jpeg
+gh-repo: nhi-nguyen-csis
 tags: [computer vision, python]
 author: Nhi Nguyen
 comments: true
