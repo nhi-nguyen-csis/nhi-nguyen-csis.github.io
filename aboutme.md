@@ -6,6 +6,7 @@ subtitle: Computer Science | Data Science | Software Engineer
 
 👋 Hi, my name is Nhi Nguyen
 
+- Incoming Faculty Lecturer, FA 2024 @ Computer Science Department, Cal Poly Pomona
 - Graduate Research Assistant
 - Math & Computer Science TA @ Cal Poly Pomona
 - Equitech Scholars
