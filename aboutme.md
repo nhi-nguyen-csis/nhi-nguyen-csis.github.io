@@ -34,7 +34,8 @@ subtitle: Computer Science | Data Science | Software Engineer
 - Completion Certificate for Supervised Machine Learning: Regression and Classification by DeepLearning.AI, Standford University
 - Completion Certificate for Girl Who Code Summer 2023 Pluralsight Work Prep
 - Completion Certificate for Applied Data Institute by Equitech Futures
-- JPMorgan Chase & Co. Software Engineering Lite & Agile Software Development Virtual Experience Program on Forage - Used perspective data visualization software and Python to monitor stock price trends and create trading strategies
+- JPMorgan Chase & Co. Software Engineering Lite & Agile Software Development Virtual Experience Program on Forage - Used perspective data visualization software and Python to monitor stock price trends and create trading strategies. 
+- BCG's GenAI on Forage - Completed a job simulation involving AI-powered financial chatbot development for BCG's GenAI Consulting team. Integrated and interpreted complex financial data from 10-K and 10-Q reports, employing rule-based logic to create a chatbot that provides user-friendly financial insights and analysis.
 - BCG Strategy Consulting Job Simulation on Forage - Conducted market research, consumer needs analysis and data analysis to create a client recommendation
 - Lawyer Training Certificate – Vietnamese Ministry of Justice
 - Certificate of Completion Summer Course – Suffolk University Law School Boston, MA
